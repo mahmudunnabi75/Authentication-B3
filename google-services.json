@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971993237321",
+    "project_id": "authentication-173c7",
+    "storage_bucket": "authentication-173c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971993237321:android:0c906609cd0583d649fc98",
+        "android_client_info": {
+          "package_name": "com.hasnast.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHui0zN5WS7tvjhIImq2MPVuUoKdmcnt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
